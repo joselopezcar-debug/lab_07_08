@@ -7,13 +7,13 @@ Este repositorio contiene la implementación en Flutter de la interfaz de usuari
 ## Vista de pantallas
 
 ### 1. Login
-![logo](./images/Log.png)
+![logo](./Images/Log.png)
 ### 2. Menú
-![logo](./images/Menu.png)
+![logo](./Images/Menu.png)
 ### 3. Registro
-![logo](./images/Registro.png)
+![logo](./Images/Registro.png)
 ### 4. Perfil
-![logo](./images/Perfil.png)
+![logo](./Images/Perfil.png)
 ## Elementos Adicionales Implementados (No vistos en clase)
 
 Para completar los requerimientos visuales y la interactividad de los bocetos de la Sección B, se integraron los siguientes widgets y conceptos del framework:
